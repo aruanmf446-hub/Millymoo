@@ -1,0 +1,24 @@
+{
+  "brand": "Milly Moo",
+  "whatsapp": "5591981791604",
+  "instagram": "millymoo",
+  "message": "Olá, Milly Moo! Quero uma proposta para destacar a minha marca nas redes sociais.",
+  "description": "Gestão de mídias sociais, estratégia e criação de conteúdo para marcas que querem ser vistas e lembradas. Conheça a Milly Moo.",
+  "services": [
+    {"title":"Gestão de mídias sociais","short":"Presença que continua.","description":"Sua comunicação com consistência e uma rotina de publicações bem cuidada. A gente organiza o conteúdo para que a sua marca tenha presença, identidade e continuidade.","items":["Organização das publicações","Comunicação alinhada à marca","Acompanhamento da presença digital"],"word":"presença","tone":"pink"},
+    {"title":"Planejamento de conteúdo","short":"Cada post tem um porquê.","description":"Antes de criar, a gente entende. Conhecemos seu negócio, seu público e seus objetivos para transformar ideias soltas em uma direção clara para as redes.","items":["Direção de comunicação","Temas e calendário editorial","Conteúdo pensado para seu público"],"word":"estratégia","tone":"cream"},
+    {"title":"Criação & direção visual","short":"Personalidade em cada detalhe.","description":"Textos, artes e ideias que fazem a sua marca ser reconhecida. Um olhar criativo para construir uma comunicação que chama atenção e continua fazendo sentido.","items":["Criação de artes e textos","Coerência visual do perfil","Ideias com a essência da marca"],"word":"criação","tone":"brown"}
+  ],
+  "studies": [
+    {"category":"GASTRONOMIA","headline":"Uma pausa.<br>Mil possibilidades.","name":"O sabor de uma boa história","description":"Conteúdo que traduz experiência e desperta vontade.","tone":"coffee","position":"0% 0%"},
+    {"category":"BELEZA & CUIDADO","headline":"Sua essência.<br>Em primeiro plano.","name":"Beleza com personalidade","description":"Direção visual para valorizar cada detalhe da marca.","tone":"beauty","position":"100% 0%"},
+    {"category":"LIFESTYLE","headline":"Deixe sua<br>marca florescer.","name":"Conexões que florescem","description":"Uma linguagem sensível, com intenção e identidade.","tone":"flowers","position":"0% 100%"},
+    {"category":"MODA & ACESSÓRIOS","headline":"Os detalhes<br>contam histórias.","name":"O olhar está nos detalhes","description":"Uma presença que comunica valor antes da primeira conversa.","tone":"fashion","position":"100% 100%"}
+  ],
+  "faqs": [
+    {"question":"Minha marca está começando. A Milly Moo pode ajudar?","answer":"Sim. A primeira conversa serve para entender o momento do seu negócio e definir uma proposta coerente com suas necessidades, seja para começar ou reorganizar a presença nas redes."},
+    {"question":"Como vocês definem a proposta?","answer":"Conversamos sobre sua marca, seus objetivos e o tipo de apoio que você procura. Depois, alinhamos escopo, entregas e condições antes de iniciar o trabalho."},
+    {"question":"Eu participo da criação?","answer":"Sim. A sua visão faz parte do processo. A direção e os conteúdos são alinhados com você para manter a comunicação fiel à sua marca."},
+    {"question":"Como dou o primeiro passo?","answer":"Fale com a gente pelo WhatsApp e conte um pouco sobre seu negócio. A partir desse primeiro oi, pensamos juntos nos próximos passos."}
+  ]
+}
